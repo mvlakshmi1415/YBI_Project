@@ -1,1 +1,1 @@
-# YBI_Project
+# YBI_Internship_Project
